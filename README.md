@@ -1,0 +1,3 @@
+- Hi, I’m @ritikbhatia26
+- I’m currently learning java and springboot for backend development
+- I have programming knowledge in C, C++, Java, HTML and CSS.
